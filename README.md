@@ -2,7 +2,7 @@
 
   
 **Luis Lazo**
-**Purpose:** Update Firewall firmware via Sophos Central for customer appliances *(NO afecta endpoints)*
+**Purpose:** Update Firewall firmware via Sophos Central for customer appliances 
 
 ---
 
