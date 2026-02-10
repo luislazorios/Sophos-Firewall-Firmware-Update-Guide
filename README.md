@@ -27,6 +27,7 @@
 
 5. **🔥 Access Firewall**  
    **My Products** > **Firewall Management** > **Firewall**
+   
    ![firewall](/doc/firewall.png)
 
    Click the Firewall → Opens info tab
