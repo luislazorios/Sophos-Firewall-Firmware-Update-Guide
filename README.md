@@ -13,9 +13,11 @@
 
 2. **👥 Navigate to Customer**  
    **My Business** > **My Customers** > **Customers**
+   
    ![customer](/doc/customers.png)
    
    Click desired customer *(it highlights)*
+   
 
     ![launch](/doc/launch.png)
    
