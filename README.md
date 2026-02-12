@@ -32,7 +32,7 @@
 
    Click the Firewall → Opens info tab
 
-   ![launch2](/doc/launc2.png)
+   ![launch2](/doc/launch2.png)
    
 
 7. **⚙️ Update Firmware**  
